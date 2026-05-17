@@ -1,4 +1,7 @@
-## Hi there 👋
+## "Hi Varsha 👋
+B.TECH CSE STUDENT
+|Building SAFETY SHIELD|
+Interested in FULL-STACK DEV & SYSTEM ARCHITECTURE."
 
 <!--
 **Varshaavinod/Varshaavinod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
