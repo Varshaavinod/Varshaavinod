@@ -1,4 +1,4 @@
-## "Hi Varsha 👋
+## "Hi👋
 B.TECH CSE STUDENT
 |Building SAFETY SHIELD|
 Interested in FULL-STACK DEV & SYSTEM ARCHITECTURE."
